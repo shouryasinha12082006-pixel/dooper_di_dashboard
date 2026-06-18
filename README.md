@@ -20,3 +20,5 @@ Business Intelligence Dashboard built using:
 ```bash
 pip install -r requirements.txt
 streamlit run bi_dashboard.py
+
+IMPORTANT NOTE - Please change the database password first before running it
