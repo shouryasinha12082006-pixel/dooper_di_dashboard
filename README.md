@@ -15,10 +15,10 @@ Business Intelligence Dashboard built using:
 - Revenue Dashboard
 - Healthcare Data Visualization
 
+IMPORTANT NOTE - Please change the database connection password first before running the program.
+
 ## Run
 
 ```bash
 pip install -r requirements.txt
 streamlit run bi_dashboard.py
-
-IMPORTANT NOTE - Please change the database password first before running it
